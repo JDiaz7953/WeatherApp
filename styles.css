@@ -1,0 +1,16 @@
+body{
+background-image: linear-gradient( 90deg , rgba(176,224,230,1) 0%,  rgba(70,130,180,1) 35%);
+}
+
+header{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50pt;
+    font-family: "Lucida Console";
+    text-shadow: 2px 2px 4px #000000;
+}
