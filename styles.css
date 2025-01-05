@@ -7,10 +7,25 @@ header{
     height: 500px;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 h1 {
     font-size: 50pt;
     font-family: "Lucida Console";
     text-shadow: 2px 2px 4px #000000;
+}
+
+input{
+    top: 60%;
+    position: absolute;
+    border-radius: 100px;
+    width: 30%;
+    height: 5%;
+    border: none;
+}
+
+button{
+    position: absolute;
+    top: 70%;
 }
